@@ -22,7 +22,6 @@
   "_resolved": "https://registry.npmjs.org/@shopify/theme-lint/-/theme-lint-1.0.3.tgz",
   "_shasum": "18c129a72c6a987f895fdf341f2e6a55e71a3d66",
   "_spec": "@shopify/theme-lint@1.0.3",
-  "_where": "/Users/muraviovvladyslav/Project/juvia-s-place/node_modules/@shopify/slate-tools",
   "author": {
     "name": "Shopify Inc."
   },
